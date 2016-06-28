@@ -48,3 +48,8 @@ Start supervisord service:
 ```
 $ sudo systemctl start supervisord.service
 ```
+
+# Modified for run supervisor on raspberry pi
+
+* supervisor located in /usr/*local*/bin
+* automatically installation script
